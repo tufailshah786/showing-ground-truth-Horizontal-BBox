@@ -26,9 +26,9 @@ def xml_to_csv(path):
 
 
 def main():
-    image_path = os.path.join(os.getcwd(), 'C:/Users/Documents/data/train')
+    image_path = os.path.join(os.getcwd(), 'C:/showing-ground-truth-Horizontal-BBox-main/ground-truth/test')
     xml_df = xml_to_csv(image_path)
-    xml_df.to_csv('train.csv', index=None)
+    xml_df.to_csv('test.csv', index=None)
     print('Successfully converted xml to csv.')
 
 
