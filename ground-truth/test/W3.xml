@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>weapon_data_1</folder>
+  <filename>W3.jpg</filename>
+  <path>/home/tufail/Desktop/weapon_data_1/W1187.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>251</width>
+    <height>201</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>pistol</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>245</xmin>
+      <ymin>103</ymin>
+      <xmax>126</xmax>
+      <ymax>29</ymax>
+      </bndbox>
+  </object>
+</annotation>

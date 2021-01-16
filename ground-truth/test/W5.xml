@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>weapon_training</folder>
+  <filename>W5.jpg</filename>
+  <path>/home/tufail/Desktop/weapon_training/image131.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>292</width>
+    <height>173</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>gun</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>218</xmin>
+      <ymin>108</ymin>
+      <xmax>152</xmax>
+      <ymax>58</ymax>
+      </bndbox>
+  </object>
+</annotation>
