@@ -7,4 +7,4 @@ step 2: open the "ground-truth" folder and store the images along with annotatio
 
 step 3: open the command prompt and then go to the extract folder "showing-ground-truth-Horizontal-BBox-main\ground-truth" by writing this command "cd C:\showing-ground-truth-Horizontal-BBox-main\ground-truth"
 
-step 4: write command "python xml_to_csv.py" and you will get ground truth images in test folder
+step 4: write command "python xml_to_csv.py" and you will get csv file in "ground-truth" folder
